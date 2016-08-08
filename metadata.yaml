@@ -1,0 +1,34 @@
+_repo: The-House-That-Jack-BuiltOne-of-R.-Caldecott-s-Picture-Books_12109
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
+description: Jack may be the most famous house builder in the world. And no house
+  has ever seen more action. the malt, the rat, the cat, the dog, the cow, the maiden,
+  the man, the priest, the cock and the farmer are all here; Randolph Caldecott has
+  brought them to life, incomparably.
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nursery rhymes'
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry, English'
+- !lcsh 'Picture books for children'
+- GITenberg
+title: 'The House That Jack Built
+
+  One of R. Caldecott''s Picture Books'
+url: http://www.gutenberg.org/ebooks/12109
