@@ -1,5 +1,8 @@
 _repo: The-House-That-Jack-BuiltOne-of-R.-Caldecott-s-Picture-Books_12109
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Caldecott, Randolph
@@ -13,6 +16,8 @@ description: Jack may be the most famous house builder in the world. And no hous
   has ever seen more action. the malt, the rat, the cat, the dog, the cow, the maiden,
   the man, the priest, the cock and the farmer are all here; Randolph Caldecott has
   brought them to life, incomparably.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12109#The-House-That-Jack-BuiltOne-of-R.-Caldecott-s-Picture-Books
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
